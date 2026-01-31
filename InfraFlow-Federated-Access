@@ -1,0 +1,3 @@
+IFA (InfraFlow Federated Access) is a federated, post-cloud access fabric that lets people, devices, and apps securely reach compute, storage, identity, and payments without depending on centralized cloud providers.
+
+It runs on top of existing networks (internet, cellular, CBRS, private LTE/5G, satellite) while keeping your core services sovereign:

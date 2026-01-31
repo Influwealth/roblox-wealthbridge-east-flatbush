@@ -1,0 +1,11 @@
+{
+  "name": "WealthBridgeEastFlatbush",
+  "tree": {
+    "$className": "DataModel",
+    "ReplicatedStorage": { "$path": "src/shared/ReplicatedStorage" },
+    "ServerScriptService": { "$path": "src/server/ServerScriptService" },
+    "StarterPlayer": {
+      "StarterPlayerScripts": { "$path": "src/client/StarterPlayer/StarterPlayerScripts" }
+    }
+  }
+}
